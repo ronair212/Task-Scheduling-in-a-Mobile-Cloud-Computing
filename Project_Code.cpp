@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  FCE Final Project
-//
-//  Created by Rohit  Nair on 11/26/22.
-//9.1,5.1,3.1,6.1,2.1,1.1,8.1,0.1,7.1,4.1
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
